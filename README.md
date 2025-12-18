@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm INBAVARUNAN!</h1>
+<h1 align="center">Hi 👋 I'm INBAVARUNAN!</h1>
 <!-- <h3 align="center">A Passionate Fullstack Developer From India </h3> -->
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inba-web" alt="inba-web" /></a> </p>
 
-- 🔭 I’m currently working on **X-Clone**
+- 🔭 I’m currently working on **FullStack & Cyber Security**
 
 - 🌱 I’m currently learning **MERN and WEB3 Development**
 
