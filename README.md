@@ -1,73 +1,62 @@
 <!-- ========================================================= -->
-<!-- HERO / BANNER -->
+<!-- HERO / INTRO -->
 <!-- ========================================================= -->
+
+<h1 align="center">Hi 👋 I'm INBAVARUNAN</h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Inbavarunan%20S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img height="150" 
+       src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
+       alt="Cyber Developer Animation" />
 </div>
 
----
-
-<!-- ========================================================= -->
-<!-- INTRO -->
-<!-- ========================================================= -->
-
-<h1 align="center">Hi 👋, I'm Inbavarunan</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineer+%E2%80%A2+Full-Stack+Development;Security-Aware+Application+Developer;Cybersecurity+Enthusiast;Builder+Mindset+%7C+Problem+Solver" />
+  <img src="https://komarev.com/ghpvc/?username=inba-web&label=Profile%20Views&color=0e75b6&style=flat" 
+       alt="Profile views" />
 </p>
 
 <p align="center">
-Engineering scalable web applications with a strong focus on security, performance, and real-world impact.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inba-web&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inba-web&theme=matrix&margin-w=10&margin-h=10" 
+       alt="GitHub Trophies" />
 </p>
 
 ---
 
 <!-- ========================================================= -->
-<!-- CYBER VISUAL -->
+<!-- ABOUT -->
 <!-- ========================================================= -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="75%" />
-</div>
+## 👨‍💻 About Me
 
----
-
-<!-- ========================================================= -->
-<!-- ABOUT ME -->
-<!-- ========================================================= -->
-
-## 🚀 About Me
-
-- 🔭 Focused on **Full-Stack Development & Cybersecurity**
-- 🌱 Currently learning **MERN Stack, Web3 & Secure System Design**
-- 🧠 Strong interest in **Ethical Hacking & Backend Security**
-- 🤝 Open to collaboration on **impact-driven engineering projects**
-- 💬 Ask me about **JavaScript, MERN, Linux, APIs, or Security Fundamentals**
+- 🔭 Currently building **Full-Stack & Cybersecurity-focused applications**
+- 🌱 Learning **MERN Stack, Web3 & Blockchain Fundamentals**
+- 🎯 Aspirant **Pentester / Red Team Engineer**
+- 🛡️ Security-first mindset for backend systems and APIs
+- 💬 Ask me about **MERN, Linux, Auth Systems, Web Security**
 - 📫 Reach me at **inbavarunans@gmail.com**
 
 ---
 
 <!-- ========================================================= -->
-<!-- CONNECT WITH ME -->
+<!-- CONNECT -->
 <!-- ========================================================= -->
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/inbavarunan-s-b80313326/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/inbavarunans_bc1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/nullpointerinba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         width="40" height="40" />
   </a>
 </p>
 
@@ -77,61 +66,24 @@ Engineering scalable web applications with a strong focus on security, performan
 <!-- TECH STACK -->
 <!-- ========================================================= -->
 
-## 🛠️ Tech Stack
-
-### 💻 Languages  
-`Java` `JavaScript` `Python` `C` `C++`
-
-### 🌐 Web & Backend  
-`HTML5` `CSS3` `React` `Redux` `Node.js` `Express.js`
-
-### 🗄️ Databases  
-`MongoDB` `PostgreSQL` `Firebase`
-
-### 🔐 Cyber & Systems  
-`Linux` `Bash` `Networking Basics` `Authentication & Authorization`
-
-### ⚙️ Tools  
-`Git` `Postman` `Bootstrap`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,react,redux,nodejs,express,mongodb,postgres,linux,bash,git,postman,firebase&theme=dark" />
-</p>
-
----
-
-<!-- ========================================================= -->
-<!-- CYBER VISUAL -->
-<!-- ========================================================= -->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="65%" />
-</div>
-
----
-
-<!-- ========================================================= -->
-<!-- STATS -->
-<!-- ========================================================= -->
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inba-web&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inba-web&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,express,firebase,git,html,java,js,linux,mongodb,nodejs,postgres,postman,python,react,redux&theme=dark" />
 </p>
 
 ---
 
 <!-- ========================================================= -->
-<!-- ACHIEVEMENTS -->
+<!-- GITHUB STATS -->
 <!-- ========================================================= -->
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inba-web&theme=matrix&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inba-web&show_icons=true&theme=tokyonight"
+       height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inba-web&layout=compact&theme=tokyonight"
+       height="165" />
 </p>
