@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Full-Stack & Cybersecurity-focused applications**
+- 🔭 Currently building **Full-Stack SaaS Applications & Cybersecurity-focused applications**
 - 🌱 Learning **MERN Stack, Web3 & Blockchain Fundamentals**
 - 🎯 Aspirant **Pentester / Red Team Engineer**
 - 🛡️ Security-first mindset for backend systems and APIs
