@@ -78,12 +78,3 @@
 <!-- GITHUB STATS -->
 <!-- ========================================================= -->
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inba-web&show_icons=true&theme=tokyonight"
-       height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inba-web&layout=compact&theme=tokyonight"
-       height="165" />
-</p>
