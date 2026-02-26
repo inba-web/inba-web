@@ -49,7 +49,7 @@
          width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://leetcode.com/u/nullpointerinba/](https://leetcode.com/u/Inbavarunan-S/)" target="_blank">
+  <a href="https://leetcode.com/u/Inbavarunan-S/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
          width="40" height="40" />
   </a>
