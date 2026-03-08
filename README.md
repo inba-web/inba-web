@@ -126,7 +126,12 @@
   <img src="https://streak-stats.demolab.com?user=inba-web&theme=radical&hide_border=true" />
 </p>
 
----
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inba-web&theme=react-dark&hide_border=true" />
+</p>
+
 
 <!-- ========================================================= -->
 <!-- FOOTER -->
