@@ -39,19 +39,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inbavarunan-s-b80313326/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         width="40" height="40" />
+  <a href="https://www.linkedin.com/in/inbavarunan-s-b80313326/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/inbavarunans_bc1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-         width="40" height="40" />
+  <a href="https://www.hackerrank.com/profile/inbavarunans_bc1" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Inbavarunan-S/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-         width="40" height="40" />
+  <a href="https://leetcode.com/u/Inbavarunan-S/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
   </a>
 </p>
 
