@@ -133,3 +133,21 @@
 <!-- ========================================================= -->
 
 <h3 align="center">⚡ Building. Breaking. Securing. Scaling.</h3>
+## ⚙️ Developer OS Status
+
+```yaml
+status: ACTIVE
+uptime: DAILY
+focus:
+  - backend_engineering
+  - api_security
+  - system_design
+
+consistency:
+  commits: steady
+  learning: continuous
+  debugging: inevitable 😄
+
+mode: BUILD • BREAK • SECURE • SCALE
+```
+
