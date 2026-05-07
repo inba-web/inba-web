@@ -127,6 +127,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inba-web&theme=react-dark&hide_border=true" />
 </p>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=inba-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!-- ========================================================= -->
 <!-- FOOTER -->
