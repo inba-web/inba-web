@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Building **Full-Stack SaaS & Security-Focused Applications**
-- 🌱 Learning **MERN Stack, Web3 & Blockchain**
+- 🌱 Learning **Cyber Security, Web3 & Blockchain**
 - 🎯 Aspiring **Pentester / Red Team Engineer**
 - 🛡️ Security-first backend & API architecture
 - 💬 Ask me about **MERN, Linux, Auth Systems, Web Security**
