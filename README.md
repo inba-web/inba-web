@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=root%40inba%3A~%24+whoami;Full+Stack+Developer+%7C+MERN+%2B+TypeScript;Cybersecurity+Enthusiast+%7C+Blue+Team+Mindset;Cloud+Engineer+%7C+AWS+%7C+Linux+%7C+DevOps;Compiling+Code...+Patching+Vulnerabilities...+Deploying...;status%3A+ONLINE+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+Architect+%7C+AWS+Certified+Cloud+Practitioner;MERN+Stack+Developer;CyberSecurity+Red+Teamer;Cloud+Security+Engineer;AI+Security+Researcher;SOC+Analyst;Linux+%7C+Networking+%7C+DevSecOps;350%2B+LeetCode+Problems+Solved;Building+Secure%2C+Scalable+%26+Cloud-Native+Applications;Always+Learning+%7C+Always+Building+%7C+Always+Securing" alt="Typing SVG" />
 
 <br/>
 
@@ -148,7 +148,6 @@
 
 </div>
 
----=============================== -->
 
 <!-- ========================================================= -->
 <!-- GITHUB STATS -->
@@ -207,7 +206,6 @@
 
 <br/><br/>
 
-**Learning Platforms:** Udemy · Coursera · LeetCode · GitHub
 
 </div>
 
