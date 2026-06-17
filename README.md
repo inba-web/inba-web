@@ -69,68 +69,66 @@
 <!-- ========================================================= -->
 <!-- CORE TOOLKIT -->
 <!-- ========================================================= -->
-
 <div align="center">
 
-## 🛠️ Core Toolkit
+## 🛠️ Tech Stack
 
-</div>
+<br/>
 
 ### 🛡️ Cybersecurity Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,powershell&theme=dark" />
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/🐉_Kali_Linux-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🛰️_Nmap-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🗺️_Zenmap-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🕷️_Burp_Suite-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/💀_Metasploit-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/📡_Aircrack--ng-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🐉_Kali_Linux-552586?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/🛰️_Nmap-4E9A06?style=for-the-badge&logo=secure-shell&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/🗺️_Zenmap-73D216?style=for-the-badge&logo=linux&logoColor=white" alt="Zenmap" />
+  <img src="https://img.shields.io/badge/🕷️_Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/💀_Metasploit-000000?style=for-the-badge&logo=rapid7&logoColor=D21F3C" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/📡_Aircrack--ng-2C3E50?style=for-the-badge&logo=wireshark&logoColor=white" alt="Aircrack" />
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/📦_tcpdump-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/📊_Splunk-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🔎_Elastic_Stack-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🛡️_Wazuh-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📦_tcpdump-00599C?style=for-the-badge&logo=wireshark&logoColor=white" alt="tcpdump" />
+  <img src="https://img.shields.io/badge/📊_Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF4B00" alt="Splunk" />
+  <img src="https://img.shields.io/badge/🔎_Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Stack" />
+  <img src="https://img.shields.io/badge/🛡️_Wazuh-00A4EF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/🌐_Networking-00D9FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🔗_TCP%2FIP-00D9FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/📡_DHCP-00D9FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🔁_Routing%3A_Static_·_Dynamic_·_Default-00D9FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🌐_Networking-00D9FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🔗_TCP%2FIP-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📡_DHCP-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🔁_Routing%3A_Static_·_Dynamic_·_Default-FF5733?style=for-the-badge&labelColor=000000" />
 </p>
+
+<br/>
 
 ### 💻 Full Stack Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,firebase,postman&theme=dark" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/🧬_Mongoose-00D9FF?style=for-the-badge&labelColor=000000" />
-</p>
-
-### 🧠 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,postgres,mongodb&theme=dark" />
 </p>
 
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-</p>
+<br/>
 
 ### ☁️ Cloud Infra & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,nginx,git,github,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,nginx,git,github,docker&theme=dark" />
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/⚙️_PM2-00D9FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚙️_PM2-2B0343?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
 </p>
+
+</div>
 
 ---
 
@@ -150,78 +148,7 @@
 
 </div>
 
----
-
-<!-- ========================================================= -->
-<!-- CERTIFICATIONS -->
-<!-- ========================================================= -->
-
-## 📜 Certifications
-
-<details open>
-<summary><b>🛡️ Google Cybersecurity Professional Certificate</b></summary>
-<br>
-
-<div align="center">
-
-![Security Foundations](https://img.shields.io/badge/-Security%20Foundations-00D9FF?style=flat-square&labelColor=000000)
-![Network Security](https://img.shields.io/badge/-Network%20Security-00D9FF?style=flat-square&labelColor=000000)
-![Linux & SQL](https://img.shields.io/badge/-Linux%20%26%20SQL%20for%20Security-00D9FF?style=flat-square&labelColor=000000)
-![Assets, Threats & Vulnerabilities](https://img.shields.io/badge/-Assets%2C%20Threats%20%26%20Vulnerabilities-00D9FF?style=flat-square&labelColor=000000)
-![Detection & Response](https://img.shields.io/badge/-Detection%20%26%20Response-00D9FF?style=flat-square&labelColor=000000)
-![Security Operations](https://img.shields.io/badge/-Security%20Operations-00D9FF?style=flat-square&labelColor=000000)
-![Risk Management](https://img.shields.io/badge/-Risk%20Management-00D9FF?style=flat-square&labelColor=000000)
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-00D9FF?style=flat-square&labelColor=000000)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🐉 EDUCBA — Ethical Hacking with Kali Linux</b></summary>
-<br>
-
-<div align="center">
-
-![Reconnaissance](https://img.shields.io/badge/-Reconnaissance-39FF14?style=flat-square&labelColor=000000)
-![Vulnerability Scanning](https://img.shields.io/badge/-Vulnerability%20Scanning-39FF14?style=flat-square&labelColor=000000)
-![Exploitation](https://img.shields.io/badge/-Exploitation-39FF14?style=flat-square&labelColor=000000)
-![Wireless Attacks](https://img.shields.io/badge/-Wireless%20Attacks-39FF14?style=flat-square&labelColor=000000)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🐍 InfoSec — Python for Cyber Security</b></summary>
-<br>
-
-<div align="center">
-
-![Automation Scripting](https://img.shields.io/badge/-Automation%20Scripting-39FF14?style=flat-square&labelColor=000000)
-![Network Scanning Scripts](https://img.shields.io/badge/-Network%20Scanning%20Scripts-39FF14?style=flat-square&labelColor=000000)
-![Security Tooling](https://img.shields.io/badge/-Security%20Tooling-39FF14?style=flat-square&labelColor=000000)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>☁️ AWS Certified Cloud Practitioner (CLF-C02)</b></summary>
-<br>
-
-<div align="center">
-
-![Cloud Concepts](https://img.shields.io/badge/-Cloud%20Concepts-00D9FF?style=flat-square&labelColor=000000)
-![Security & Compliance](https://img.shields.io/badge/-Security%20%26%20Compliance-00D9FF?style=flat-square&labelColor=000000)
-![Billing & Pricing](https://img.shields.io/badge/-Billing%20%26%20Pricing-00D9FF?style=flat-square&labelColor=000000)
-![Core AWS Services](https://img.shields.io/badge/-Core%20AWS%20Services-00D9FF?style=flat-square&labelColor=000000)
-
-</div>
-
-</details>
-
----
+---=============================== -->
 
 <!-- ========================================================= -->
 <!-- GITHUB STATS -->
@@ -242,10 +169,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=inba-web&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=39FF14&point=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inba-web&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
 ---
 
 <!-- ========================================================= -->
@@ -260,7 +183,6 @@
 
 <br/>
 
-<img src="https://leetcode-stats-card.vercel.app/?username=Inbavarunan-S&theme=dark&border_radius=10" />
 
 </div>
 
