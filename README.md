@@ -2,6 +2,11 @@
 <!-- HEADER -->
 <!-- ========================================================= -->
 
+
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d62,100:00ff9c&height=230&section=header&text=I'm%20Inbavarunan%20⚡&fontSize=46&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20✦%20Cybersecurity%20✦%20Cloud%20Engineer&descAlignY=55&descSize=18&descColor=00D9FF" width="100%"/>
@@ -168,18 +173,34 @@
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inba-web&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=39FF14&text_color=c9d1d9&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inba-web&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inba-web&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inba-web&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inba-web&theme=tokyonight" width="49%"/>
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=inba-web&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=inba-web&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=39FF14&point=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/inba-web/inba-web/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/inba-web/inba-web/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/inba-web/inba-web/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
+
 
 ---
 
