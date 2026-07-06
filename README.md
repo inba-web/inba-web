@@ -6,7 +6,6 @@
 
 
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d62,100:00ff9c&height=230&section=header&text=I'm%20Inbavarunan%20⚡&fontSize=46&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20✦%20Cybersecurity%20✦%20Cloud%20Engineer&descAlignY=55&descSize=18&descColor=00D9FF" width="100%"/>
