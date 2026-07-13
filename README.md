@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+Architect+%7C+AWS+Certified+Cloud+Practitioner;MERN+Stack+Developer;CyberSecurity+Red+Teamer;Cloud+Security+Engineer;AI+Security+Researcher;SOC+Analyst;Linux+%7C+Networking+%7C+DevSecOps;350%2B+LeetCode+Problems+Solved;Building+Secure%2C+Scalable+%26+Cloud-Native+Applications;Always+Learning+%7C+Always+Building+%7C+Always+Securing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+Architect+%7C+AWS+Certified+Cloud+Practitioner;MERN+Stack+Developer;CyberSecurity+Red+Teamer;Cloud+Security+Engineer;AI+Security+Researcher;SOC+Analyst;Linux+%7C+Networking+%7C+DevSecOps;400%2B+LeetCode+Problems+Solved;Building+Secure%2C+Scalable+%26+Cloud-Native+Applications;Always+Learning+%7C+Always+Building+%7C+Always+Securing" alt="Typing SVG" />
 
 <br/>
 
